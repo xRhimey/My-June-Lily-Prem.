@@ -105,7 +105,7 @@ h1 {
 
 .menu-item:hover {
   background: white;
-  color: #ec7063;
+  color: #d98880;
 }
 .menu-item:nth-child(3) {
   -webkit-transition-duration: 180ms;
